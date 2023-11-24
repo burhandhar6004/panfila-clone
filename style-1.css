@@ -1,0 +1,1442 @@
+@media (max-width:400px) {
+    .main-container{
+        width: 100%;
+        height: auto;
+    }
+
+    .navbar{
+        padding-inline: 5%;
+    }
+    .navbar ul{
+        display: none;
+    }
+
+    .menu{
+        display:inline;
+        width: 55px;
+        height: 55px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        /* padding-left: 15px; */
+        /* padding-top: 10px; */
+    }
+
+/* ------------------------navbar------------------------------------ */
+
+
+.text h1{
+    font-size: 40px;
+}
+
+.text p{
+    font-size: 30px;
+    padding-top: 15px;
+}
+
+#btn{
+    margin-top: 15px;
+    width: 300px;
+    /* height: 5; */
+    font-size: 23px;
+}
+
+/* --------------------text compl------------------------- */
+
+.social{
+    display: none;
+}
+
+/* --------------------------------------------------------------- */
+
+.text-2{
+    padding-inline: 15px;
+}
+
+.text-2 h1{
+    font-size: 30px;
+    text-align: center;
+    padding-top: 15px;
+}
+
+.text-2 p br{
+    display: none;
+}
+
+/* -------------------------------------------------------------- */
+
+.cont-box{
+    flex-direction: column;
+}
+
+.box{
+    margin-top: 10px;
+    width: 80%;
+    height: 420px;
+    margin-left: 0%;
+}
+
+.box img{
+    width: 200px;
+    height: auto;
+}
+
+.box h2{
+    padding-top: 15px;
+}
+
+.box p{
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+
+.box-2{
+    margin-top: 10px;
+    width: 80%;
+    height: 420px;
+    margin-left: 0%;
+}
+
+.box-2 img{
+    width: 200px;
+    height: auto;
+}
+
+.box-2 h2{
+    padding-top: 15px;
+}
+
+.box-2 p{
+    padding-top: 15px;
+}
+
+/* ------------------------------------------------------------- */
+
+.cont-box-2{
+    flex-direction: column;
+}
+
+.bx-1{
+    width: 90%;
+    height: 300px;
+    margin-left: 0%;
+    margin-top: 50px;
+}
+
+.bx-1 img{
+    width: 90%;
+    /* padding-top: 20px; */
+    /* margin-top: 10px; */
+}
+
+/* ------------------------------------------------------------------------ */
+
+
+.cont-box-3{
+    flex-direction: column;
+    padding-top: 50px;
+}
+
+.bx-3{
+    width: 80%;
+    margin-top: 15px;
+    margin-left: 0%;
+}
+
+.bx-3 img{
+    width: 80%;
+}
+
+/* ------------------------------------------------------------ */
+
+.main-container-2{
+    width: 100%;
+    height: auto;
+}
+
+.main-cnt-text-1{
+    text-align: center;
+}
+
+.main-cnt-text-1 h1{
+    font-size: 35px;
+}
+
+.main-cnt-text-1 h4{
+    font-size: 30px;
+}
+
+/* ------------------------------------------------------ */
+
+.main-cnt-box-1{
+    width: 90%;
+    height: auto;
+    flex-direction: column;
+}
+
+.respons{
+    width: 100%;
+    padding-left: 0%;
+    padding-inline: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-right: 0cap;
+    border-bottom: 1px solid rgb(6, 117, 46);
+}
+
+.respons p br{
+    display: none;
+}
+
+/* ----------------------------------------------------------------------- */
+
+.seo{
+    width: 100%;
+    padding-left: 0%;
+    display: flex;
+    padding-inline: 15px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-right: 0cap;
+    border-bottom: 1px solid rgb(6, 117, 46);
+}
+
+.seo p br{
+    display: none;
+}
+
+/* --------------------------------------------------------------- */
+
+
+.best{
+    width: 100%;
+    padding-left: 0%;
+    display: flex;
+    padding-inline: 15px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-right: 0cap;
+    /* border-bottom: 1px solid rgb(6, 117, 46); */
+}
+
+.best p br{
+    display: none;
+}
+
+/* ------------------------------------------------------------ */
+
+
+.main-container-3{
+    width: 100%;
+    height: auto;
+}
+.serv h1{
+    font-size: 35px;
+}
+.services{
+    flex-direction: column;
+    /* padding-top: 15px; */
+    /* margin-top: 50px; */
+    /* padding-top: 0%; */
+}
+
+.wrd-prs{
+    margin-bottom: 40px;
+}
+
+.graph{
+    margin-bottom: 40px;
+}
+
+.log-d{
+    margin-bottom: 40px;
+}
+
+.services-2{
+    flex-direction: column;
+    padding-top: 50px;
+}
+
+
+/* ---------------------------------------------------------------------- */
+
+.clients{
+    width: 100%;
+    height: auto;
+}
+
+.cust h1{
+    font-size: 30px;
+}
+.review{
+    flex-direction: column;
+}
+.rev-box{
+    width: 90%;
+    height: 440px;
+}
+
+.rev-box-2{
+    width: 90%;
+    height: 440px;
+    margin-top: 20px;
+}
+
+.rev-box-3{
+    width: 90%;
+    height: 440px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+/* --------------------------------------------------------------------- */
+
+.ranks{
+    width: 100%;
+    height: auto;
+}
+
+.rank-head p{
+    font-size: 20px;
+}
+
+.rank-head p br{
+    display: none;
+}
+
+.rank-box{
+    flex-direction: column;
+    padding-inline: 22px;
+}
+
+.rank-cont{
+    width: 100%;
+    height: auto;
+}
+
+.rank-cont p{
+    font-size: 10.5px;
+}
+
+.rank-cont-2{
+    width: 100%;
+    height: auto;
+}
+
+.rank-cont-2 p{
+    font-size: 10.5px;   
+}
+
+/* ----------------------------------------------------------------------- */
+
+.recog{
+    width: 100%;
+    height: auto;
+}
+
+.recog-head h1{
+    font-size: 30px;
+}
+.mono{
+    flex-direction: column;
+}
+
+.mono-2{
+    flex-direction: column;
+}
+
+.mono-2 img{
+    margin-left: 0%;
+    padding-bottom: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/* -x-x-x-x-x-x-x-x-x-x--x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x */
+
+@media (min-width:401px) and (max-width:500px) {
+    .main-container{
+        width: 100%;
+        height: auto;
+    }
+
+    .navbar{
+        padding-inline: 5%;
+    }
+    .navbar ul{
+        display: none;
+    }
+
+    .menu{
+        display:inline;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        /* padding-left: 10px; */
+    }
+
+/* ------------------------navbar------------------------------------ */
+
+
+.text h1{
+    font-size: 40px;
+}
+
+.text p{
+    font-size: 35px;
+    padding-top: 15px;
+}
+
+#btn{
+    margin-top: 15px;
+    width: 300px;
+    /* height: 5; */
+    font-size: 23px;
+}
+
+/* --------------------text compl------------------------- */
+
+.social{
+    display: none;
+}
+
+/* --------------------------------------------------------------- */
+
+.text-2{
+    padding-inline: 15px;
+}
+
+.text-2 h1{
+    font-size: 30px;
+    text-align: center;
+    padding-top: 15px;
+}
+
+.text-2 p br{
+    display: none;
+}
+
+/* -------------------------------------------------------------- */
+
+.cont-box{
+    flex-direction: column;
+}
+
+.box{
+    margin-top: 10px;
+    width: 60%;
+    height: 450px;
+    margin-left: 0%;
+}
+
+.box img{
+    width: 200px;
+    height: auto;
+}
+
+.box h2{
+    padding-top: 15px;
+}
+
+.box p{
+    padding-top: 15px;
+    
+}
+
+.box-2{
+    margin-top: 10px;
+    width: 60%;
+    height: 450px;
+    margin-left: 0%;
+}
+
+.box-2 img{
+    width: 80%;
+    height: auto;
+}
+
+.box-2 h2{
+    padding-top: 15px;
+}
+
+.box-2 p{
+    padding-top: 15px;
+}
+
+/* ------------------------------------------------------------- */
+
+.cont-box-2{
+    flex-direction: column;
+}
+
+.bx-1{
+    width: 90%;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 50px;
+    padding-top: 20px;
+}
+
+.bx-1 img{
+    width: 90%;
+    /* padding-top: 20px; */
+    /* margin-top: 10px; */
+}
+
+/* ------------------------------------------------------------------------ */
+
+
+.cont-box-3{
+    flex-direction: column;
+    padding-top: 50px;
+}
+
+.bx-3{
+    width: 80%;
+    margin-top: 15px;
+    margin-left: 0%;
+}
+
+.bx-3 img{
+    width: 90%;
+}
+
+/* ------------------------------------------------------------ */
+
+.main-container-2{
+    width: 100%;
+    height: auto;
+}
+
+.main-cnt-text-1{
+    text-align: center;
+}
+
+.main-cnt-text-1 h1{
+    font-size: 40px;
+}
+
+.main-cnt-text-1 h4{
+    font-size: 30px;
+}
+
+/* ------------------------------------------------------ */
+
+.main-cnt-box-1{
+    width: 90%;
+    height: auto;
+    flex-direction: column;
+}
+
+.respons{
+    width: 100%;
+    padding-left: 0%;
+    padding-inline: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-right: 0cap;
+    border-bottom: 1px solid rgb(6, 117, 46);
+}
+
+.respons p br{
+    display: none;
+}
+
+/* ----------------------------------------------------------------------- */
+
+.seo{
+    width: 100%;
+    padding-left: 0%;
+    display: flex;
+    padding-inline: 15px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-right: 0cap;
+    border-bottom: 1px solid rgb(6, 117, 46);
+}
+
+.seo p br{
+    display: none;
+}
+
+/* --------------------------------------------------------------- */
+
+
+.best{
+    width: 100%;
+    padding-left: 0%;
+    display: flex;
+    padding-inline: 15px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-right: 0cap;
+    /* border-bottom: 1px solid rgb(6, 117, 46); */
+}
+
+.best p br{
+    display: none;
+}
+
+/* ------------------------------------------------------------ */
+
+
+.main-container-3{
+    width: 100%;
+    height: auto;
+}
+
+.services{
+    flex-direction: column;
+    /* padding-top: 15px; */
+    /* margin-top: 50px; */
+    /* padding-top: 0%; */
+}
+
+.wrd-prs{
+    margin-bottom: 40px;
+}
+
+.graph{
+    margin-bottom: 40px;
+}
+
+.log-d{
+    margin-bottom: 40px;
+}
+
+.services-2{
+    flex-direction: column;
+    padding-top: 50px;
+}
+
+
+/* ---------------------------------------------------------------------- */
+
+.clients{
+    width: 100%;
+    height: auto;
+}
+
+.cust h1{
+    font-size: 35px;
+}
+.review{
+    flex-direction: column;
+}
+.rev-box{
+    width: 90%;
+}
+
+.rev-box-2{
+    width: 90%;
+    margin-top: 20px;
+}
+
+.rev-box-3{
+    width: 90%;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+/* --------------------------------------------------------------------- */
+
+.ranks{
+    width: 100%;
+    height: auto;
+}
+
+.rank-head p{
+    font-size: 20px;
+}
+
+.rank-head p br{
+    display: none;
+}
+
+.rank-box{
+    flex-direction: column;
+    padding-inline: 30px;
+}
+
+.rank-cont{
+    width: 100%;
+    height: auto;
+}
+
+.rank-cont p{
+    font-size: 12px;
+}
+
+.rank-cont-2{
+    width: 100%;
+    height: auto;
+}
+
+.rank-cont-2 p{
+    font-size: 12px;   
+}
+
+/* ----------------------------------------------------------------------- */
+
+.recog{
+    width: 100%;
+    height: auto;
+}
+
+.recog-head h1{
+    font-size: 30px;
+}
+.mono{
+    flex-direction: column;
+}
+
+.mono-2{
+    flex-direction: column;
+}
+
+.mono-2 img{
+    margin-left: 0%;
+    padding-bottom: 20px;
+}
+
+
+
+
+
+}
+
+/* -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-xx-x-x-x-x-x-x-x-x-x-x-x-x-x- */
+
+
+@media (min-width:501px) and (max-width:1000px) {
+    .main-container{
+        width: 100%;
+        height: auto;
+    }
+
+    .navbar{
+        padding-inline: 5%;
+    }
+    .navbar ul{
+        display: none;
+    }
+
+    .menu{
+        display:inline;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        /* padding-left: 10px; */
+    }
+
+/* ------------------------navbar------------------------------------ */
+
+
+.text h1{
+    font-size: 40px;
+}
+
+.text p{
+    font-size: 35px;
+    padding-top: 15px;
+}
+
+#btn{
+    margin-top: 15px;
+    width: 300px;
+    /* height: 5; */
+    font-size: 23px;
+}
+
+/* --------------------text compl------------------------- */
+
+.social{
+    display: none;
+}
+
+/* --------------------------------------------------------------- */
+
+.text-2{
+    padding-inline: 15px;
+}
+
+.text-2 h1{
+    font-size: 30px;
+    text-align: center;
+    padding-top: 15px;
+}
+
+.text-2 p br{
+    display: none;
+}
+
+/* -------------------------------------------------------------- */
+
+.cont-box{
+    /* flex-direction: column; */
+    flex-wrap: wrap;
+}
+
+.box{
+    margin-top: 10px;
+    /* width: 60%; */
+    margin-left: 5%;
+}
+
+/* .box img{
+    width: 90%;
+} */
+
+/* .box h2{
+    padding-top: 15px;
+} */
+
+/* .box p{
+    padding-top: 15px;
+    
+} */
+
+.box-2{
+    margin-top: 10px;
+    /* width: 60%; */
+    margin-left: 5%;
+}
+
+/* .box-2 img{
+    width: 90%;
+    height: auto;
+} */
+
+/* .box-2 h2{
+    padding-top: 15px;
+} */
+
+/* .box-2 p{
+    padding-top: 15px;
+} */
+
+/* ------------------------------------------------------------- */
+
+.cont-box-2{
+    flex-direction: column;
+}
+
+.bx-1{
+    width: 90%;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 50px;
+    padding-top: 20px;
+}
+
+.bx-1 img{
+    width: 90%;
+    /* padding-top: 20px; */
+    /* margin-top: 10px; */
+}
+
+/* ------------------------------------------------------------------------ */
+
+
+.cont-box-3{
+    /* flex-direction: column; */
+    flex-wrap: wrap;
+    padding-top: 50px;
+}
+
+.bx-3{
+    /* width: 60%; */
+    margin-top: 15px;
+    margin-left: 5%;
+}
+
+/* .bx-3 img{
+    width: 90%;
+} */
+
+/* ------------------------------------------------------------ */
+
+.main-container-2{
+    width: 100%;
+    height: auto;
+}
+
+.main-cnt-text-1{
+    text-align: center;
+}
+
+.main-cnt-text-1 h1{
+    font-size: 40px;
+}
+
+.main-cnt-text-1 h4{
+    font-size: 30px;
+}
+
+/* ------------------------------------------------------ */
+
+.main-cnt-box-1{
+    width: 90%;
+    height: auto;
+    flex-direction: column;
+}
+
+.respons{
+    width: 100%;
+    padding-left: 0%;
+    padding-inline: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-right: 0cap;
+    border-bottom: 1px solid rgb(6, 117, 46);
+}
+
+.respons p br{
+    display: none;
+}
+
+/* ----------------------------------------------------------------------- */
+
+.seo{
+    width: 100%;
+    padding-left: 0%;
+    display: flex;
+    padding-inline: 15px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-right: 0cap;
+    border-bottom: 1px solid rgb(6, 117, 46);
+}
+
+.seo p br{
+    display: none;
+}
+
+/* --------------------------------------------------------------- */
+
+
+.best{
+    width: 100%;
+    padding-left: 0%;
+    display: flex;
+    padding-inline: 15px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-right: 0cap;
+    /* border-bottom: 1px solid rgb(6, 117, 46); */
+}
+
+.best p br{
+    display: none;
+}
+
+/* ------------------------------------------------------------ */
+
+
+.main-container-3{
+    width: 100%;
+    height: auto;
+}
+
+.services{
+    /* flex-direction: column; */
+    flex-wrap: wrap;
+    /* padding-top: 15px; */
+    /* margin-top: 50px; */
+    /* padding-top: 5%; */
+    /* margin-bottom: 10px; */
+}
+
+.wrd-prs{
+    margin-bottom: 25px;
+}
+
+.graph{
+    margin-bottom: 25px;
+}
+
+
+
+.services-2{
+    /* flex-direction: column; */
+    flex-wrap: wrap;
+    padding-top: 50px;
+}
+
+
+/* ---------------------------------------------------------------------- */
+
+.clients{
+    width: 100%;
+    height: auto;
+}
+
+.cust h1{
+    font-size: 35px;
+}
+.review{
+    flex-direction: column;
+}
+.rev-box{
+    width: 90%;
+}
+
+.rev-box-2{
+    width: 90%;
+    margin-top: 20px;
+}
+
+.rev-box-3{
+    width: 90%;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+/* --------------------------------------------------------------------- */
+
+.ranks{
+    width: 100%;
+    height: auto;
+}
+
+.rank-head p{
+    font-size: 20px;
+}
+
+.rank-head p br{
+    display: none;
+}
+
+.rank-box{
+    flex-direction: column;
+    padding-inline: 30px;
+}
+
+.rank-cont{
+    width: 100%;
+    height: auto;
+}
+
+.rank-cont p{
+    font-size: 12px;
+}
+
+.rank-cont-2{
+    width: 100%;
+    height: auto;
+}
+
+.rank-cont-2 p{
+    font-size: 12px;   
+}
+
+/* ----------------------------------------------------------------------- */
+
+.recog{
+    width: 100%;
+    height: auto;
+}
+
+.recog-head h1{
+    font-size: 30px;
+}
+.mono{
+    /* flex-direction: column; */
+    flex-wrap: wrap;
+}
+
+.mono-2{
+    /* flex-direction: column; */
+    flex-wrap: wrap;
+}
+
+.mono-2 img{
+    margin-left: 0%;
+    padding-bottom: 20px;
+}
+
+
+
+
+
+}
+
+/* -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- */
+
+@media (min-width:1001px) {
+    .main-container{
+        width: 100%;
+        height: auto;
+    }
+
+    .navbar{
+        padding-inline: 100px;
+    }
+    /* .navbar ul{
+        display: none;
+    } */
+
+    .menu{
+        display:none;
+        /* padding-left: 10px; */
+    }
+
+/* ------------------------navbar------------------------------------ */
+
+
+.text h1{
+    font-size: 90px;
+}
+
+.text p{
+    font-size: 45px;
+    padding-top: 15px;
+}
+
+#btn{
+    margin-top: 15px;
+    width: 350px;
+    /* height: 5; */
+    font-size: 25px;
+}
+
+/* --------------------text compl------------------------- */
+
+
+
+/* --------------------------------------------------------------- */
+
+/* .text-2{
+    padding-inline: 15px;
+} */
+
+.text-2 h1{
+    font-size: 50px;
+    /* text-align: center; */
+    padding-top: 15px;
+}
+
+/* .text-2 p br{
+    display: none;
+} */
+
+/* -------------------------------------------------------------- */
+
+/* .cont-box{
+    flex-direction: column;
+} */
+
+/* .box{
+    margin-top: 10px;
+    width: 60%;
+    margin-left: 0%;
+} */
+
+/* .box img{
+    width: 90%;
+} */
+
+.box h2{
+    padding-top: 15px;
+}
+
+.box p{
+    padding-top: 10px;
+    
+}
+
+/* .box-2{
+    margin-top: 10px;
+   
+} */
+
+/* .box-2 img{
+    width: 90%;
+} */
+
+.box-2 h2{
+    padding-top: 15px;
+}
+
+.box-2 p{
+    padding-top: 15px;
+}
+
+/* ------------------------------------------------------------- */
+
+/* .cont-box-2{
+    flex-direction: column;
+} */
+
+/* .bx-1{
+    width: 90%;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 50px;
+    padding-top: 20px;
+} */
+
+/* .bx-1 img{
+    width: 90%;
+} */
+
+/* ------------------------------------------------------------------------ */
+
+
+/* .cont-box-3{
+    flex-direction: column;
+    padding-top: 50px;
+} */
+
+/* .bx-3{
+    width: 60%;
+    margin-top: 15px;
+    margin-left: 0%;
+} */
+
+/* .bx-3 img{
+    width: 90%;
+} */
+
+/* ------------------------------------------------------------ */
+
+.main-container-2{
+    width: 100%;
+    /* height: auto; */
+}
+
+.main-cnt-text-1{
+    text-align: center;
+}
+
+.main-cnt-text-1 h1{
+    font-size: 50px;
+}
+
+.main-cnt-text-1 h4{
+    font-size: 20px;
+}
+
+/* ------------------------------------------------------ */
+
+.main-cnt-box-1{
+    width: 90%;
+    height: 85vh;
+    /* flex-direction: column; */
+}
+
+/* .respons{
+    width: 100%;
+    padding-left: 0%;
+    padding-inline: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-right: 0cap;
+    border-bottom: 1px solid rgb(6, 117, 46);
+} */
+/* 
+.respons p br{
+    display: none;
+} */
+
+/* ----------------------------------------------------------------------- */
+/* 
+.seo{
+    width: 100%;
+    padding-left: 0%;
+    display: flex;
+    padding-inline: 15px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-right: 0cap;
+    border-bottom: 1px solid rgb(6, 117, 46);
+} */
+
+/* .seo p br{
+    display: none;
+} */
+
+/* --------------------------------------------------------------- */
+
+
+/* .best{
+    width: 100%;
+    padding-left: 0%;
+    display: flex;
+    padding-inline: 15px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-right: 0cap;
+    /* border-bottom: 1px solid rgb(6, 117, 46); */
+/* }  */
+
+/* .best p br{
+    display: none;
+} */
+
+/* ------------------------------------------------------------ */
+
+
+.main-container-3{
+    width: 100%;
+    height: 120vh;
+}
+
+.services{
+    /* flex-direction: column; */
+    flex-wrap: wrap;
+    /* padding-top: 15px; */
+    /* margin-top: 50px; */
+    /* padding-top: 0%; */
+}
+
+
+
+.services-2{
+    /* flex-direction: column; */
+    flex-wrap: wrap;
+    padding-top: 100px;
+}
+
+
+/* ---------------------------------------------------------------------- */
+
+.clients{
+    width: 100%;
+    height: 110vh;
+}
+
+.cust h1{
+    font-size: 40px;
+}
+/* .review{
+    flex-direction: column;
+} */
+/* .rev-box{
+    width: 90%;
+} */
+
+/* .rev-box-2{
+    width: 90%;
+    margin-top: 20px;
+} */
+
+/* .rev-box-3{
+    width: 90%;
+    margin-top: 20px;
+    margin-bottom: 50px;
+} */
+
+/* --------------------------------------------------------------------- */
+
+.ranks{
+    width: 100%;
+    height: 90vh;
+}
+
+.rank-head p{
+    font-size: 26px;
+}
+
+/* .rank-head p br{
+    display: none;
+} */
+
+/* .rank-box{
+    flex-direction: column;
+    padding-inline: 30px;
+} */
+
+/* .rank-cont{
+    width: 100%;
+    height: auto;
+} */
+
+.rank-cont p{
+    font-size: 20px;
+}
+
+/* .rank-cont-2{
+    width: 100%;
+    height: auto;
+} */
+
+.rank-cont-2 p{
+    font-size: 20px;   
+}
+
+/* ----------------------------------------------------------------------- */
+
+.recog{
+    width: 100%;
+    height: 100vh;
+}
+
+.recog-head h1{
+    font-size: 40px;
+}
+.mono{
+    /* flex-direction: column; */
+    flex-wrap: wrap;
+}
+
+.mono-2{
+    /* flex-direction: column; */
+    flex-wrap: wrap;
+}
+
+.mono-2 img{
+    margin-left: 80px;
+    padding-bottom: 20px;
+}
+
+
+
+}
+
+
+
+
+
+
+
+
